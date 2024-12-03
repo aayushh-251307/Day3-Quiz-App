@@ -1,6 +1,6 @@
 # Day3-Quiz-App
 
-** **Url: **** https://lnkd.in/gw8E75ZA
+** **Url: **** [https://lnkd.in/gw8E75ZA](https://aayushh-251307.github.io/Day3-Quiz-App/)
 
  
 ****Project Description: Quiz App****
